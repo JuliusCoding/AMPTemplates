@@ -1,0 +1,13 @@
+[
+    {
+        "UpdateStageName": "Install/Update Garry’s Mod",
+        "UpdateSourcePlatform": "All",
+        "UpdateSource": "SteamCMD",
+        "UpdateSourceData": "4020",
+        "UpdateSourceArgs": "4000",
+        "UnzipUpdateSource": false,
+        "OverwriteExistingFiles": false,
+        "DeleteAfterExtract": true,
+        "OneShot": false
+    }
+]
